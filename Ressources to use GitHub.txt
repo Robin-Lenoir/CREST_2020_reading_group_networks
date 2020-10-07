@@ -1,15 +1,14 @@
 In this document, ressources are gathered to learn how to use github:
 
-- Git and GitHub concepts and background info:
-
 
 - Sign Up and install GitHub:
 https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 - Set up Git Repository and basic actions from the command prompt:
 Text: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
-Video:
+https://guides.github.com/introduction/git-handbook/
+Video: https://www.youtube.com/watch?v=0fKg7e37bQE
 
 - Use GitHub Desktop Application:
-Text:
+Text: https://programminghistorian.org/en/lessons/retired/getting-started-with-github-desktop
 Video:
