@@ -1,0 +1,7 @@
+In this document, ressources are gathered to learn how to use github:
+
+- Sign Up and install GitHub:
+
+- Set up Git Repository and basic actions from the command prompt:
+
+- Use GitHub Desktop Application:
